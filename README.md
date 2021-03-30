@@ -66,9 +66,7 @@ Se mappen [dokumentation](dokumentation/). [Planering](dokumentation/planering.m
 
 ## Använd
 
-[Webbserver](https://jens-andreasson.gitbook.io/webbserverprogrammering/)
-[Databasdesign](https://jens-andreasson.gitbook.io/webbserverprogrammering/databas/databasdesign)
-[CRUD](https://jens-andreasson.gitbook.io/webbserverprogrammering/databas/crud)
-
-
-https://lawsofux.com/
+* [Webbserver](https://jens-andreasson.gitbook.io/webbserverprogrammering/)
+* [Databasdesign](https://jens-andreasson.gitbook.io/webbserverprogrammering/databas/databasdesign)
+* [CRUD](https://jens-andreasson.gitbook.io/webbserverprogrammering/databas/crud)
+* https://lawsofux.com/
