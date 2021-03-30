@@ -28,3 +28,28 @@ Varje vecka har deadlines, du måste följa dessa.
 |   19   |                  | Delete
 |   20   |                  | Update
 |   21   |                  | Checklista
+
+## Databas
+
+Använd gärna [draw.io](https://app.diagrams.net/) för att planera din databas, det finns mallar.
+När den är klar kan du köra en MYSQL describe och klistra in resultatet i denna fil.
+Exportera även databasen.
+
+## Struktur
+
+Skriv gärna en lista över dina routes som du behöver.
+
+```
+GET /
+```
+Visa en landing-page med inloggning.
+```
+GET /movies
+```
+Visa en lista med alla filmer, är det användarens, kräver det inloggning?
+```
+POST /movies
+```
+Skapa en ny resurs.
+
+...
