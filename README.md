@@ -53,7 +53,7 @@ Du ska även välja en licens för GITHUB / redigera den MIT licens projektet ha
 
 # Dokumentation
 
-Se mappen dokumentation. Planering ska skrivas pass 1.
+Se mappen [dokumentation](dokumentation/planering.md). Planering ska skrivas pass 1.
 
 ## Resurser
 
