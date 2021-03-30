@@ -1,8 +1,11 @@
 # Planering
 
-Här planerar du ditt projekt. Ska du göra ett annat projekt än filmdatabasen
-då behöver du skriva en planering som visar hur du arbetar med projektets
-alla delar.
+Här planerar du ditt projekt. 
+
+## Eget projekt
+Ska du göra ett annat projekt än filmdatabasen då behöver du skriva en planering
+som visar hur du arbetar med projektets alla delar. Gör detta innan lektionstid, 
+dvs. se till att planera ditt projekt innan vecka 15.
 
 ## Bräde och annat
 
