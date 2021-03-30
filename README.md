@@ -17,7 +17,8 @@ Du behöver designa databasen för sidan. För filmerna ska det åtminstone finn
 
 Din databas ska följa normalform, det vill säga att regissörer/genrer behöver vara en separat tabell som hämtas med en JOIN på filmId. 
 
-Om du vill så kan du utöka informationen, ett tips är att leta efter filmposters på en extern API.
+Om du vill så kan du utöka informationen, ett tips är att leta efter filmposters på en extern API. Du kan även skydda CRUD funktionaliteten 
+bakom en login.
 
 ### Design
 - [ ] Användbart
@@ -32,6 +33,7 @@ Om du vill så kan du utöka informationen, ett tips är att leta efter filmpost
 ### Teknik
 - [ ] Server, node, express eller liknande
 - [ ] Databas, SQL
+- [ ] Säkerhet, filtrering och prep statements
 
 # Design
 
