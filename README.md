@@ -1,10 +1,10 @@
 # Slutprojekt
 
-Du har fått i uppdrag att skapa en filmdatabas.
+Du har fått i uppdrag att skapa något för webben (se classroom).
 
 ## Krav
 
-Sidan ska visa dina samlade kunskaper från kursen. Den ska vara skapad utifrån en design (det måste inte vara perfekt) och innehålla CRUD funktionalitet för en resurs kopplad till webbplatsen. Redigeringen av resurser på webbplatsen kan vara skyddat med en inloggning om du så önskar.
+Sidan ska visa dina samlade kunskaper från kursen. Den ska vara skapad utifrån en design (det måste inte vara perfekt) och innehålla **CR**UD funktionalitet för en resurs kopplad till webbplatsen. Redigeringen av resurser på webbplatsen kan vara skyddat med en inloggning om du så önskar.
 
 Din frontend kan renderas på servern eller så kan frontend och backend vara separerade.
 
@@ -12,7 +12,6 @@ Du behöver designa databasen för sidan. För filmerna ska det åtminstone finn
 
 - [ ] Titel
 - [ ] Regissör
-- [ ] Genre
 - [ ] År
 
 Din databas ska följa normalform, det vill säga att regissörer/genrer behöver vara en separat tabell som hämtas med en JOIN på filmId. 
